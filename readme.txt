@@ -1,0 +1,2 @@
+1.本代码适用于样本标签为3类的数据集(0,1,2，如Bay、Bar等数据集)，该类数据集可直接训练，无需处理；若样本标签为2类(0,1,如china、river等数据集)，需将原始样本标签+1后再进行训练；
+2.若初始超像素分割为矩阵块时，替换segmentation中的slic_superpixels.py，函数一般路径为/home/xidian/anaconda3/envs/py38tg/lib/python3.8/site-packages/skimage/segmentation/slic_superpixels.py
