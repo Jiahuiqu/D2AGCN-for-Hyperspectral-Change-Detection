@@ -1,7 +1,5 @@
-# D2AGCN
-# Dual-Branch Difference Amplification Graph Convolutional Network for Hyperspectral Image Change Detection
-
-## This example implements the paper [Dual-Branch Difference Amplification Graph Convolutional Network for Hyperspectral Image Change Detection]
+# D$2$AGCN for Hyperspectral Image Change Detection
+The implementation of the paper " Dual-Branch Difference Amplification Graph Convolutional Network for Hyperspectral Image Change Detection" (IEEE Transactions on Geoscience and Remote Sensing 2022)
 
 
 ## Prerequisites
